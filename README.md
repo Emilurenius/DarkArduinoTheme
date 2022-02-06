@@ -3,9 +3,10 @@
 # Dark Arduino Theme
 
 ### NOTE  
-**Sadly, I'm no longer maintaining this theme. The Arduino IDE has changed a lot but I'm not doing much work with the platform and it's just too much to keep this up-to-date.** If you'd like to fork the repo and fix it, that would be great! I'll happily add a link to your version here so others can benefit.
+Works for Arduino version 1.8.5+, not tested with newer/older versions.
 
-Still works for Arduino version 1.8.5+, not tested with newer/older versions.
+Based on [This dark theme](https://github.com/jeffThompson/DarkArduinoTheme)
+made by Jeff Thompson. This version differs by having the original buttons and symbols, instead of the grey ones in the original dark theme.
 
 \- \- \-
 
